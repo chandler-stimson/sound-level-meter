@@ -1,0 +1,5 @@
+{
+  "description": {
+    "message": "Displays the noise level chart and decibel values (min, average, and max) by measuring sound pressure level on a logarithmic scale"
+  }
+}

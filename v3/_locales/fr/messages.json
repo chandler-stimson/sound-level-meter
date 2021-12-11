@@ -1,0 +1,5 @@
+{
+  "description": {
+    "message": "Affiche le graphique du niveau sonore et les valeurs en décibels (minimum, moyenne et maximum) en mesurant le niveau de pression acoustique sur une échelle logarithmique."
+  }
+}

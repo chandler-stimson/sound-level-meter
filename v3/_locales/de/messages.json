@@ -1,0 +1,5 @@
+{
+  "description": {
+    "message": "Zeigt das Geräuschpegeldiagramm und die Dezibelwerte (Minimum, Durchschnitt und Maximum) durch Messung des Schalldruckpegels auf einer logarithmischen Skala an"
+  }
+}

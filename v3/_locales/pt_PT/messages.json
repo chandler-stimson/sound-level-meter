@@ -1,0 +1,5 @@
+{
+  "description": {
+    "message": "Apresenta a tabela do nível de ruído e os valores de decibéis (mínimo, médio e máximo) medindo o nível de pressão sonora numa escala logarítmica"
+  }
+}

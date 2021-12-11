@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <title>Sound Level Meter</title>
+</head>
+<body data-action=true>
+  <canvas></canvas>
+  <div id="now">
+    <div id="meter">
+      <span data-volume="0"></span>
+      <span data-volume="1"></span>
+      <span data-volume="2"></span>
+      <span data-volume="3"></span>
+      <span data-volume="4"></span>
+      <span data-volume="5"></span>
+      <span data-volume="6"></span>
+      <span data-volume="7"></span>
+      <span data-volume="8"></span>
+      <span data-volume="9"></span>
+      <span data-volume="10"></span>
+      <span data-volume="11"></span>
+      <span data-volume="12"></span>
+      <span data-volume="13"></span>
+      <span data-volume="14"></span>
+      <span data-volume="15"></span>
+      <span data-volume="16"></span>
+      <span data-volume="17"></span>
+      <span data-volume="18"></span>
+      <span data-volume="19"></span>
+    </div>
+    <span id="dB">0dB</span>
+  </div>
+  <div id="stats">
+    <div>MIN <span id=min>0dB</span></div>
+    <div style="justify-self: center;">AVG <span id=avg>0dB</span></div>
+    <div style="justify-self: end;">MAX <span id=max>0dB</span></div>
+  </div>
+
+  <div id="permission">
+    Make sure the extension has access to your microphone!
+  </div>
+
+  <script type="text/javascript" src="libs/Chart.js"></script>
+  <script type="text/javascript" src="index.js"></script>
+</body>
+</html>

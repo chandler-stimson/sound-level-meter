@@ -1,0 +1,5 @@
+{
+  "description": {
+    "message": "Visualizza il grafico del livello di rumore e i valori in decibel (minimo, medio e massimo) misurando il livello di pressione sonora su una scala logaritmica"
+  }
+}

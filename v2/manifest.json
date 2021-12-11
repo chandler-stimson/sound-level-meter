@@ -23,5 +23,6 @@
       "background.js"
     ]
   },
+  "homepage_url": "https://add0n.com/sound-level-meter.html",
   "browser_action": {}
 }
